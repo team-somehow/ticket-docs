@@ -12,9 +12,9 @@ Welcome to the Fan Score Protocol documentation. This protocol enables fair tick
 
 ## Quick Links
 
-- [Getting Started](/guides/getting-started.html)
-- [Installation](/guides/installation.html)
-- [Attestation](/api/attestation.html)
-- [Firebase](/api/firebase.html)
-- [Components](/components/score-generation.html)
-- [Hooks](/hooks/hooks.html)
+- [Getting Started](/guides/getting-started.md)
+- [Installation](/guides/installation.md)
+- [Attestation](/api/attestation.md)
+- [Firebase](/api/firebase.md)
+- [Components](/components/score-generation.md)
+- [Hooks](/hooks/hooks.md)
